@@ -1,0 +1,15 @@
+D:\PXL Grad 2020-2021\Werkplekleren\project\BSS\bin\Release\BladSteenSchaar.exe.config
+D:\PXL Grad 2020-2021\Werkplekleren\project\BSS\bin\Release\BladSteenSchaar.exe
+D:\PXL Grad 2020-2021\Werkplekleren\project\BSS\bin\Release\BladSteenSchaar.pdb
+D:\PXL Grad 2020-2021\Werkplekleren\project\BSS\obj\Release\BSS.csprojAssemblyReference.cache
+D:\PXL Grad 2020-2021\Werkplekleren\project\BSS\obj\Release\MainWindow.g.cs
+D:\PXL Grad 2020-2021\Werkplekleren\project\BSS\obj\Release\App.g.cs
+D:\PXL Grad 2020-2021\Werkplekleren\project\BSS\obj\Release\BladSteenSchaar_MarkupCompile.cache
+D:\PXL Grad 2020-2021\Werkplekleren\project\BSS\obj\Release\BladSteenSchaar_MarkupCompile.lref
+D:\PXL Grad 2020-2021\Werkplekleren\project\BSS\obj\Release\MainWindow.baml
+D:\PXL Grad 2020-2021\Werkplekleren\project\BSS\obj\Release\BladSteenSchaar.g.resources
+D:\PXL Grad 2020-2021\Werkplekleren\project\BSS\obj\Release\BladSteenSchaar.Properties.Resources.resources
+D:\PXL Grad 2020-2021\Werkplekleren\project\BSS\obj\Release\BSS.csproj.GenerateResource.cache
+D:\PXL Grad 2020-2021\Werkplekleren\project\BSS\obj\Release\BSS.csproj.CoreCompileInputs.cache
+D:\PXL Grad 2020-2021\Werkplekleren\project\BSS\obj\Release\BladSteenSchaar.exe
+D:\PXL Grad 2020-2021\Werkplekleren\project\BSS\obj\Release\BladSteenSchaar.pdb

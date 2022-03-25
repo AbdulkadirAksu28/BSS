@@ -1,0 +1,15 @@
+D:\PXL Grad 2020-2021\Werkplekleren\project\BladSteenSchaar\obj\Debug\BladSteenSchaar.csprojAssemblyReference.cache
+D:\PXL Grad 2020-2021\Werkplekleren\project\BladSteenSchaar\obj\Debug\MainWindow.g.cs
+D:\PXL Grad 2020-2021\Werkplekleren\project\BladSteenSchaar\obj\Debug\App.g.cs
+D:\PXL Grad 2020-2021\Werkplekleren\project\BladSteenSchaar\obj\Debug\BladSteenSchaar_MarkupCompile.cache
+D:\PXL Grad 2020-2021\Werkplekleren\project\BladSteenSchaar\obj\Debug\BladSteenSchaar_MarkupCompile.lref
+D:\PXL Grad 2020-2021\Werkplekleren\project\BladSteenSchaar\bin\Debug\BladSteenSchaar.exe.config
+D:\PXL Grad 2020-2021\Werkplekleren\project\BladSteenSchaar\bin\Debug\BladSteenSchaar.exe
+D:\PXL Grad 2020-2021\Werkplekleren\project\BladSteenSchaar\bin\Debug\BladSteenSchaar.pdb
+D:\PXL Grad 2020-2021\Werkplekleren\project\BladSteenSchaar\obj\Debug\MainWindow.baml
+D:\PXL Grad 2020-2021\Werkplekleren\project\BladSteenSchaar\obj\Debug\BladSteenSchaar.g.resources
+D:\PXL Grad 2020-2021\Werkplekleren\project\BladSteenSchaar\obj\Debug\BladSteenSchaar.Properties.Resources.resources
+D:\PXL Grad 2020-2021\Werkplekleren\project\BladSteenSchaar\obj\Debug\BladSteenSchaar.csproj.GenerateResource.cache
+D:\PXL Grad 2020-2021\Werkplekleren\project\BladSteenSchaar\obj\Debug\BladSteenSchaar.csproj.CoreCompileInputs.cache
+D:\PXL Grad 2020-2021\Werkplekleren\project\BladSteenSchaar\obj\Debug\BladSteenSchaar.exe
+D:\PXL Grad 2020-2021\Werkplekleren\project\BladSteenSchaar\obj\Debug\BladSteenSchaar.pdb

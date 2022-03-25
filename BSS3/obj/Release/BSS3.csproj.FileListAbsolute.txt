@@ -1,0 +1,15 @@
+D:\PXL Grad 2020-2021\Werkplekleren\project\BSS3\bin\Release\BSS3.exe.config
+D:\PXL Grad 2020-2021\Werkplekleren\project\BSS3\bin\Release\BSS3.exe
+D:\PXL Grad 2020-2021\Werkplekleren\project\BSS3\bin\Release\BSS3.pdb
+D:\PXL Grad 2020-2021\Werkplekleren\project\BSS3\obj\Release\BSS3.csprojAssemblyReference.cache
+D:\PXL Grad 2020-2021\Werkplekleren\project\BSS3\obj\Release\MainWindow.g.cs
+D:\PXL Grad 2020-2021\Werkplekleren\project\BSS3\obj\Release\App.g.cs
+D:\PXL Grad 2020-2021\Werkplekleren\project\BSS3\obj\Release\BSS3_MarkupCompile.cache
+D:\PXL Grad 2020-2021\Werkplekleren\project\BSS3\obj\Release\BSS3_MarkupCompile.lref
+D:\PXL Grad 2020-2021\Werkplekleren\project\BSS3\obj\Release\MainWindow.baml
+D:\PXL Grad 2020-2021\Werkplekleren\project\BSS3\obj\Release\BSS3.g.resources
+D:\PXL Grad 2020-2021\Werkplekleren\project\BSS3\obj\Release\BSS3.Properties.Resources.resources
+D:\PXL Grad 2020-2021\Werkplekleren\project\BSS3\obj\Release\BSS3.csproj.GenerateResource.cache
+D:\PXL Grad 2020-2021\Werkplekleren\project\BSS3\obj\Release\BSS3.csproj.CoreCompileInputs.cache
+D:\PXL Grad 2020-2021\Werkplekleren\project\BSS3\obj\Release\BSS3.exe
+D:\PXL Grad 2020-2021\Werkplekleren\project\BSS3\obj\Release\BSS3.pdb
